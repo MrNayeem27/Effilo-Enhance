@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" id="mobile">
+  <g transform="translate(867 -1029.362)">
+    <rect width="9" height="16" x="-863" y="1029.362" fill="#2b4255" rx="1" ry="1.067"></rect>
+    <path fill="#e9eded" d="M-857.5 1043.362a1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1 1 1 0 0 1 1 1z" opacity=".98"></path>
+    <path fill="#e9eded" fill-rule="evenodd" stroke="#e9eded" stroke-linecap="round" stroke-linejoin="round" d="M-859.5 1030.862h2"></path>
+    <rect width="7" height="9" x="-862" y="1032.362" fill="#fff" ry="0"></rect>
+  </g>
+</svg>
